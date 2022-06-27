@@ -1,0 +1,40 @@
+Nombre: meme
+ Fecha comienzo: 4/0/-1896
+Duracion: 50
+ Fecha fin: 5/1/-1896
+ Numero inicial de bacterias: 6
+ Temperatura: 3.0
+ Luminosidad: alta
+Tipo de comida: 1
+ Día intermedio: 40
+ Comida incial: 4000
+ Comida final: 50000
+Comida del día intermedio: 70000
+Nombre: muchas
+ Fecha comienzo: 4/0/-1896
+Duracion: 20
+ Fecha fin: 3/0/-1896
+ Numero inicial de bacterias: 500000
+ Temperatura: 8.0
+ Luminosidad: alta
+Tipo de comida: 4
+Comida: 200000
+Nombre: pepe
+ Fecha comienzo: 1/11/112
+Duracion: 15
+ Fecha fin: 2/0/113
+ Numero inicial de bacterias: 300
+ Temperatura: 21.0
+ Luminosidad: alta
+Tipo de comida: 2
+Comida incial: 1000
+ Comida final: 9000
+Nombre: titi
+ Fecha comienzo: 4/0/-1895
+Duracion: 20
+ Fecha fin: 3/0/-1895
+ Numero inicial de bacterias: 500
+ Temperatura: 6.0
+ Luminosidad: media
+Tipo de comida: 4
+Comida: 100000
